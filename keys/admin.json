@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "culinacare",
+  "private_key_id": "8fc9834b37020cb40c1f8c67fac52891b37ec43c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDTJBNHzOJY2q/Z\nyaFIgdUu67DjZR+5l7ZAJqYfpvunJlOsT7cMZaDSp4MbaWH2gkTE/JgnnHMXniLs\nXXirBmA2/oyV4tjYg8RNRWRxaolumXZd/m6aCsDm3XDbAJmdyx1sq3DzhKX1AYdY\nHeQGyYImtyC4FYtHIy0QVstrC3VhT0OeMdTfBdaKwRs535Shwb5RrTEbvZjHksCH\n+P4qHsmFN9cSD0UmOpSb4MEm2KX+27/ExEATLbLO9Q1o5eW79a/U/nSWTfbyh1FM\nDAqP2EhEz6N82W3y1BZt9AwVNORoxbf0qKPCC0EkcLFVdRSKydsSwzHTORYtLaU8\nPIvFbcC3AgMBAAECgf9QDBYmvun04kk6yETAuHhE0aSFdPvZNke3fETwuxbJq5N/\nI9YXXRriwknkKMiz83Z0VKSwJudCjPiUFb9ipcENUVel7WkPyVaxEVa8GrYcRmdv\nHr/Pw0PtJlw/VdA819LP/KEdBwKOtfdvRh6tHrhj2LRkMnFwlRAdE3V9LgWZeph7\nH5FLXfPQw47y4IDFOb3t9M+jEZ+rbsP4/7X1EQg+T1haa5NCxeOK5zt25xYsqkeh\noKA+mJNfBMfyL3wI0XeafVFX84WG5JUijXa0RALAgAQahFsMZw7kM/vrn/oJqjf5\n3zek5lpoHoiC8MiR3jAsdPZvCX7Owrbw91Rs9b0CgYEA8PF1oBIAzEW2xzqI1J9i\nP8oNhF1CgFfSA+95RjkOxFQJRuVZtSdcLwiSgFNNzJnd/f2ZK5ldLBGF/aQ6zr86\nuo41PK8BZyHm+Gvs5HhojwgmUxAMpKEL63SWYbjyjGZMZvxoqZ755fnuQqqLOnvC\n1PeY2qh7dK5JBCWPfjFbRCsCgYEA4FXY8jJzBkV+3VPqJZw4Vh29qpfRmOgOuAJ6\n/DJrVysBDL2FP1zCc/uaKsFPEu0xT96Q1KFhVui02e+LnvrCbVmoKYsmhlj8FWUd\nIU+wEpP4B8MraQTBSuBaCZOn30YX7PPobIo2uuzj5CNvmDx+gPDfik3DiGhiTJcm\n18qy86UCgYAwg633iSh3+SGQhAzBI0aZKYoHOPAG/6fd+v4kUaDTj0g+6jdh7ob1\nQXieNifYJrM4TTPmP38vPGgKZmMg9ghRQAkgKuzRY1YqdzC/4C7NfgqZdwXUsEjC\nJDuTebX85yxDIFfCr6wJzoVXDxfxsrHMR/6TKJGTMPSqzRVTh4Sk+QKBgHrpLjMM\nxw7Bls+nAVvX6tnr85X7FmBjjGTvHvj8mukoa6vSTqY3qWaojIAuZ6ekA2eSNuH5\nBX77gtMBNwtEsq/89nDEh7gGGx+RxdMReRPEtJl0Kl2guFLQ9yPWHZzsJ4Gw5UBK\nvc/OqNG/RI4xXtJApwl8r8wV/P2fty12JnPtAoGBAM4W17MBtJXDq3Upo6PqQbgf\nZQj+muZed2lxSmucK09s9WAp2yjhT1tyWkfI25HeE/upbFyieJhj+7KU4uwyeqmu\nqIxLE3TIX4up7BjgjIRQ63rt1Ho74IdapTyi4fxTtNeXUp3mkYCsGJRIAcRComwJ\nuTYWWqM/ZiDe5opu2MxY\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xfacw@culinacare.iam.gserviceaccount.com",
+  "client_id": "111741492443569228762",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xfacw%40culinacare.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
